@@ -1,0 +1,1 @@
+This is Karol's first git project!
